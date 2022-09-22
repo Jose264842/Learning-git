@@ -43,7 +43,7 @@ public class BasicCalculator
 		BasicCalculator.mul();
 		BasicCalculator.div();
 		
-		System.out.println("Second Commit Successfull");
+		System.out.println("Deploy to Dev");
 
 	}
 
