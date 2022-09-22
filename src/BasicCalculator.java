@@ -42,6 +42,8 @@ public class BasicCalculator
 		BasicCalculator.sub();
 		BasicCalculator.mul();
 		BasicCalculator.div();
+		
+		System.out.println("Second Commit Successfull");
 
 	}
 
